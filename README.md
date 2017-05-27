@@ -1,4 +1,4 @@
-[v0.0.1]
+[v0.0.2](https://github.com/littleflute/beautifullover114/edit/master/README.md)
 
 [cd1](cd1)
 
